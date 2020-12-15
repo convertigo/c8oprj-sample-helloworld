@@ -1,5 +1,7 @@
+↑default: true
 server: rss.cnn.com
 ↓Default_transaction [transactions.HttpTransaction]: 
   ↑default: true
 ↓GetFeed [transactions.XmlHttpTransaction]: 
+  httpPool: global
   subDir: rss/edition.rss
