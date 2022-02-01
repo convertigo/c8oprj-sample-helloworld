@@ -2,6 +2,8 @@
 server: rss.cnn.com
 ↓Default_transaction [transactions.HttpTransaction]: 
   ↑default: true
+  accessibility: Public
 ↓GetFeed [transactions.XmlHttpTransaction]: 
+  accessibility: Public
   httpPool: global
   subDir: rss/edition.rss
