@@ -7,8 +7,6 @@
   ↓GetCNNFeed [sequences.GenericSequence]: 🗏 sequences/GetCNNFeed.yaml
   ↓Project_reference [references.ProjectSchemaReference]: 
     projectName: mobilebuilder_tpl_8_0_0_ngx=https://github.com/convertigo/c8oprj-mobilebuilder-tpl/archive/mobilebuilder_tpl_8_0_0_ngx.zip
-  ↓Project_reference1 [references.ProjectSchemaReference]: 
-    projectName: mobilebuilder_tpl_7_9_0=https://github.com/convertigo/c8oprj-mobilebuilder-tpl/archive/mobilebuilder_tpl_7_9_0.zip
   ↓MobileApplication [core.MobileApplication]: 
     comment: Describes the mobile application global properties
     splashRemoveMode: beforeUpdate
