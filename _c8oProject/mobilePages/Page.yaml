@@ -34,7 +34,6 @@ title: First page
       beanData: '{"ionBean":"BarTitle"}'
       tagName: ion-title
       ↓Text [ngx.components.UIText-1491634275121]: 
-        i18n: true
         textValue: 
           - xmlizable: 
             - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -56,7 +55,6 @@ title: First page
     beanData: '{"ionBean":"Heading1"}'
     tagName: h1
     ↓Text [ngx.components.UIText-1514310812815]: 
-      i18n: true
       textValue: 
         - xmlizable: 
           - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -70,7 +68,6 @@ title: First page
       }'
     tagName: ion-button
     ↓Text [ngx.components.UIText-1514310920028]: 
-      i18n: true
       textValue: 
         - xmlizable: 
           - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -101,7 +98,6 @@ title: First page
             beanData: '{"ionBean":"Heading1"}'
             tagName: h1
             ↓Text [ngx.components.UIText-1514381805734]: 
-              i18n: true
               textValue: 
                 - xmlizable: 
                   - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -110,7 +106,6 @@ title: First page
             beanData: '{"ionBean":"Paragraph"}'
             tagName: p
             ↓Text [ngx.components.UIText-1514381821650]: 
-              i18n: true
               textValue: 
                 - xmlizable: 
                   - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -133,7 +128,6 @@ title: First page
         beanData: '{"ionBean":"Button","ButtonFormType":"plain:false"}'
         tagName: ion-button
         ↓Text [ngx.components.UIText-1491634340354]: 
-          i18n: true
           textValue: 
             - xmlizable: 
               - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
@@ -145,7 +139,6 @@ title: First page
         beanData: '{"ionBean":"Button","ButtonFormType":"plain:false"}'
         tagName: ion-button
         ↓Text [ngx.components.UIText-1491634383107]: 
-          i18n: true
           textValue: 
             - xmlizable: 
               - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType

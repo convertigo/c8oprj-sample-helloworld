@@ -11,7 +11,6 @@ tagName: ion-menu
       beanData: '{"ionBean":"BarTitle"}'
       tagName: ion-title
       ↓Text [ngx.components.UIText-1500890755422]: 
-        i18n: true
         textValue: 
           - xmlizable: 
             - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
