@@ -1,0 +1,464 @@
+[{
+  "view": "Page",
+  "instanceID": ".7347185721139682",
+  "requestable": "sample_HelloWorld.GetCNNFeed",
+  "data": {
+    "news": [
+      {
+        "title": "Wagner founder urges Zelensky to pull out of Bakhmut",
+        "description": "• 2 Americans arrested for allegedly sending aviation technology to Russia\n• Russia planned Kherson torture centers, say international lawyers",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303100836-yevgeny-prigozhin-bakhmut-030323-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Ukraine war sends message to 'aggressors everywhere,' says Blinken at Quad meeting",
+        "description": "",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303143934-blinken-0303-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Ret. col. says strategic retreat may be wise for Ukraine",
+        "description": "CNN military analyst Col. Cedric Leighton (ret.) explains why a strategic retreat by Ukrainian forces near Bakhmut could be their best option at this time. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303014919-cedric-leighton-03032023-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Alex Murdaugh sentencing hearing underway",
+        "description": "",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302194023-10-murdaugh-trial-0302-cropped-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Fall of the Murdaughs: A timeline of deaths, alleged embezzlement and an insurance scam",
+        "description": "For 87 years, the Murdaugh family name came to represent a legal dynasty in coastal South Carolina, where three successive generations controlled the local prosecutor's office.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/210916142404-02b-murdaugh-family-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Nobel laureate Ales Beliatski sentenced to 10 years in prison by Belarusian court",
+        "description": "Belarusian Nobel Peace Prize laureate Ales Beliatski was sentenced by a court in Minsk on Friday to 10 years in a maximum-security penal colony, Russia state news agency TASS reports. He was found guilty on the charge of smuggling, according to TASS.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303045032-01-ales-bialiatski-hearing-010523-file-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "See the moment verdict was read in Murdaugh trial",
+        "description": "The jury in the double murder trial of Alex Murdaugh has found him guilty of murdering his wife and son. The 54-year-old scion of a prominent and powerful family of local lawyers and solicitors, was also found guilty of two counts of possession of a weapon during the commission of a violent crime in the killings of Margaret \"Maggie\" Murdaugh and Paul Murdaugh on June 7, 2021.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302190009-murdaugh-verdict-vpx-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Protests erupt after audio released of Greece train driver being told to ignore red light",
+        "description": "• Video shows scuffles after tragic train crash",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302100950-03-greece-train-crash-protests-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "US agency assessment backing Covid lab leak theory raises more questions than answers -- and backlash from China",
+        "description": "",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303003713-01-wuhan-covid-020320-file-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Boris Johnson faces damning new evidence in Partygate inquiry",
+        "description": "Damning new evidence has been published as part of the inquiry that will determine whether or not former British Prime Minister Boris Johnson misled Parliament over his conduct during the so-called Partygate scandal. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/220706142734-02-britain-boris-johnson-052522-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Growing alarm in Iran after report that schoolgirls were poisoned",
+        "description": "Reports reveal that in recent months, nearly 900 schoolgirls may have been poisoned across Iran. Some were hospitalized, and others are still experiencing symptoms. CNN's Nima Elbagir reports.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302170502-iran-students-poisoning-vpx-030223-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Adani shares soar as US investor steps in",
+        "description": "Shares in some of Indian billionaire Gautam Adani's companies soared Friday after a US private equity firm agreed to invest nearly $1.9 billion in his embattled conglomerate.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230206065612-adani-group-hq-ahmedabad-020123-restricted-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Expert: North Korea food crisis at its worst point in decades",
+        "description": "Alarm bells are ringing regarding North Korea's food situation as Kim Jong Un convened a meeting to transform the country's farming capabilities this week.  South Korean officials believe there have been deaths due to starvation and experts point to an ever-worsening situation. Paula Hancocks reports.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303110134-video-thumb-north-korea-food-crisis-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "US slams Cambodian opposition figure's 'treason' sentence",
+        "description": "A top Cambodian opposition figure was sentenced to 27 years of house arrest on Friday after being convicted of treason in a verdict the United States denounced as a \"miscarriage of justice.\"",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303014910-01-kem-sokha-030323-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "South Korea doesn't need nuclear weapons to face the North, prime minister says",
+        "description": "",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302220408-south-korean-han-ducksoo-interview-0301-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Fox News election fraud revelations could take down the network's embattled chief",
+        "description": "Who will Rupert Murdoch exile from the Fox kingdom?",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302133513-fox-news-headquarters-ny-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "BTS mastermind on K-pop deal: We're not 'trying to take over the whole industry'",
+        "description": "The billionaire mastermind behind some of the world's biggest K-pop stars is pushing back on accusations that he's trying to monopolize the Korean music industry.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303084206-bang-si-hyuk-hybe-chairman-cnn-interview-screenshot-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "See Marjorie Taylor Greene's reaction when GOP official corrects her lies",
+        "description": "Rep. Marjorie Taylor Greene (R-GA) continued to spread false information about the 2020 election at a congressional hearing and attempted to discredit Gabriel Sterling, a Republican election official from Georgia. Sterling speaks with Anderson Cooper about the exchange and discusses why Taylor Greene continues to lie about the 2020 election.",
+        "imageUrl": "",
+        "element": ""
+      },
+      {
+        "title": "Airships largely disappeared after several exploded. Now they're back",
+        "description": "The smooth, white underbelly of the airborne whale sails across the sky, casting a shadow across the forest below. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303105946-cover-01-flying-whales-airship-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Video shows aftermath of violent turbulence on airplane",
+        "description": "A Lufthansa flight traveling from Texas, US, to Germany was diverted to Virginia's Washington Dulles International Airport because of turbulence that left some passengers injured.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302231020-lufthansa-flight-turbulence-aftermath-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "World's most northerly forests could be a planet-warming 'time bomb,' new study warns",
+        "description": "The world's most northerly forests could be a \"time bomb\" of planet-warming pollution as expanding wildfires have released record high levels of planet-heating pollution into the atmosphere, according to a new study.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230301133908-01-boreal-forests-wildfires-study-intl-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Researchers locate ship that was missing for more than 120 years",
+        "description": "A 191-foot cargo ship was discovered by NOAA researchers over a century after it sank, taking the lives of all but two crew members. ",
+        "imageUrl": "",
+        "element": ""
+      },
+      {
+        "title": "Porn Zoom bomb forces cancellation of US Fed Reserve event",
+        "description": "A virtual event with Federal Reserve Governor Christopher Waller was canceled on Thursday after the Zoom videoconference was \"hijacked\" by a participant who displayed pornographic images.    ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302161101-federal-reserve-dc-super-169.jpeg",
+        "element": ""
+      },
+      {
+        "title": "Why Biden is only just about to face his first veto",
+        "description": "Spend some time reading about how the presidential veto has fallen into disuse and you can't help but think it coincides with an era where the filibuster and other forms of Capitol Hill obstruction have been put on steroids.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302122832-biden-virginia-beach-0228-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Hidden corridor discovered in Great Pyramid of Giza",
+        "description": "A hidden corridor nine meters (30 feet) long has been discovered close to the main entrance of the 4,500-year-old Great Pyramid of Giza, and this could lead to further findings, Egyptian antiquities officials said on Thursday. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302144518-02-secret-corridor-pyramid-giza-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Deep snow closes Yosemite and other California parks ",
+        "description": "One statistic pretty well tells the whole story: 15 feet (4.6 meters) of snow. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302191129-02-yosemite-snow-closed-restricted-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Repairman recounts fending off armed robbers",
+        "description": "A Texas repairman was confronted by three armed men but was able to scare off the would-be robbers, forcing them to run away. CNN affiliate KTRK has the story. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302182832-ktrk-surveillance-video-houston-repairman-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "How the market has changed in the 20+ years I've covered it",
+        "description": "There have been a LOT of changes on Wall Street since I first joined CNN in November 2001.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302122211-file-new-york-stock-exchange-112701-restricted-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Formula One: Why the new season could be more dramatic than ever",
+        "description": "A new season and much has changed, yet much also remains the same in Formula One. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230228104013-f1-bahrain-testing-max-verstappen-lewis-hamilton-split-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Top Democrats sent a scathing letter to Fox. Hear from one of them",
+        "description": "Senate Majority Leader Chuck Schumer (D-NY) tells CNN's John Berman about the letter he and other Democrats wrote to Fox Chairman Rupert Murdoch about Fox News' handling of election lies.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302171100-schumer-lead-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Yao Ming caught in the cross-fire as Chinese basketball team leaves top league on eve of Covid reopening ",
+        "description": "The return of China's top basketball league to its normal season format following years of Covid disruptions has been marred in controversy after an abrupt no-show from one of its former championship-winning teams amid accusations of mistreatment by its star player.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303024015-01-xinjiang-guanghui-flying-tigers-092620-file-restricted-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Women at high risk of ovarian cancer should consider fallopian tube removal, experts say",
+        "description": "\"Knowledge is power,\" says Samantha Carlucci, 26. The Ravena, New York, resident recently had a hysterectomy that included removing her fallopian tubes -- and believes it saved her life. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230223200200-samantha-carlucci-super-169.jpeg",
+        "element": ""
+      },
+      {
+        "title": "See video of Republican who wrote anti-drag bill wearing a dress",
+        "description": "Republican Texas State Rep. Nate Schatzline wore a dress for a school project as a teenager. Now, he wrote a bill that would restrict performers \"who exhibit a gender identity that is different\" from the one they were assigned at birth.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302175127-nate-schatzline-school-project-dress-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "This European airline will introduce double beds in the sky",
+        "description": "A private cocoon up in the sky, with even your own heating system that you can turn up and down at whim? That's what's on offer in the latest groundbreaking new first class suite unveiled by an airline.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302231642-01-lufthansa-allegris-first-class-rendering-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Pedro Pascal turns heads at the red carpet premiere of 'The Mandalorian'",
+        "description": "This week, Pedro Pascal arrived at the red carpet premiere for the third season of Disney+ series \"The Mandalorian\" in Los Angeles in a lemon-hued collared Gucci shirt, gray wide-leg slacks and a mustard knit sweater tied across his shoulders. The look — curated by celebrity stylist Julie Ragolia — was topped off by a pair of oversized, 70s tortoise shell eyeglasses. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302120324-01-pedro-pascal-daddy-mandalorian-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Legendary Duke coach Mike Krzyzewski on NCAA criticism and his life since retiring ",
+        "description": "Over his 42 seasons as head coach of the Duke Blue Devils, Mike Krzyzewski became synonymous with college basketball.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303122655-05-mike-krzyzewski-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Dubai's emerging hip-hop scene is finding its voice",
+        "description": "Think of the United Arab Emirates and you might not immediately think of hip-hop, but in recent years, Dubai has become home to a small and dedicated group of artists who rap in Arabic about local culture.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230203132337-dubai-hip-hop-freek-1-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "'Daily Show' guest host quits Twitter in front of audience",
+        "description": "Guest host Hasan Minhaj called out Twitter users, not Elon Musk, for ruining the social media service. He ended his rant by officially deactivating his Twitter account live on \"The Daily Show.\"",
+        "imageUrl": "",
+        "element": ""
+      },
+      {
+        "title": "John Williams leaves door open for more film work after 'Indiana Jones and the Dial of Destiny'",
+        "description": "Harrison Ford has said he intends to hang up his whip as Indiana Jones after the new film hits theaters, but famed film composer John Williams isn't so sure \"Indiana Jones and the Dial of Destiny\" will be his own last film adventure. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302143926-john-williams-2016-file-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "You can now live on a cruise ship for $30,000 per year",
+        "description": "Have you ever dreamed of giving it all up, leaving it all behind and hitting the road to escape all your responsibilities? ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302094821-05-mv-gemini-cruise-ship-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "'Get rid of the rats': NFL players rate teams and reveal some 'gross' details",
+        "description": "Given the multi-billion dollar nature of the business, you might think that no expense would be spared in ensuring NFL players' every need is taken care of. If so, think again.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303112454-01-nfl-review-gripes-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "21-year-old model becomes double-amputee after severe illness",
+        "description": "Claire Bridges was a 20-year-old model with a genetic heart condition who caught Covid-19, lost her legs and nearly died.  A rare surgery and her own resilience have given her hope.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230221170646-05-model-covid-wellness-before-after-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Cyclist Kateřina Nash avoids four-year doping ban after dog medicine contamination",
+        "description": "Cyclist Kateřina Nash has avoided a four-year ban after the US Anti-Doping Agency (USADA) linked her positive drug test with medication she had been administering to her dog. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303100252-01-katerina-nash-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Billie Eilish says she's deleted all her social media apps",
+        "description": "Billie Eilish says she has deleted her social media apps from her phone due to her complicated relationship with the internet.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/220327222718-24-oscars-show-2022-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Tiffany & Co. unveils BTS star Jimin as brand ambassador ",
+        "description": "As luxury brands continue to court South Korea's booming luxury market, Tiffany & Co. has unveiled K-pop star Jimin as its newest brand ambassador. ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303121204-01-jimin-tiffany-and-co-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "'Hot dog hands' and a googly-eyed rock: 'Everything Everywhere All At Once' props raise over $500K",
+        "description": "A pair of \"hot dog hands,\" a Bluetooth headset for crossing between universes and a rock decorated with googly eyes were among the standout lots at one of the year's most unusual auctions.  ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303040429-03-a24-eeaao-auction-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Luxury Scottish Highlands train unveils stunning new suites ",
+        "description": "It's already one of the most luxurious locomotives around, and The Royal Scotsman Belmond is about to get even more glamorous with the launch of two beautiful new suites.",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302093759-01-royal-scotsman-belmond-suites-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "The owner of the notorious Russian mercenary group says his forces have all but surrounded the eastern Ukrainian city, but the defending troops are fighting on",
+        "description": "• 2 Americans arrested for allegedly sending aviation technology to Russia\n• Russia planned Kherson torture centers, say international lawyers",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303100836-yevgeny-prigozhin-bakhmut-030323-super-169.jpg",
+        "element": ""
+      },
+      {
+        "title": "Putin accuses Ukraine of 'terrorist attack' in Russia. CNN investigates the claim ",
+        "description": "Putin alleges a small group of armed Ukrainians have crossed into the Byransk region in Russia. CNN cannot independently verify the claims but Ukrainian authorities have denied any involvement. CNN's Frederik Pleitgen has more from Moscow.  ",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230303153639-screengrab-russian-volunteer-corps-super-169.jpeg",
+        "element": ""
+      },
+      {
+        "title": "2 Americans arrested for allegedly sending aviation technology to Russia",
+        "description": "• Live: Russia and China reaffirm partnership after foreign ministers meet\n• Russia planned Kherson torture centers, say international lawyers",
+        "imageUrl": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/230302172750-doj-headquarters-230217-restricted-super-169.jpg",
+        "element": ""
+      }
+    ],
+    "element": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "complex": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "navParams": null
+}]
