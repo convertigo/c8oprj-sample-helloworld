@@ -1,6 +1,8 @@
 ↑default: true
-server: rss.cnn.com
-↓Default_transaction [transactions.HttpTransaction]: 
-  ↑default: true
+https: true
+port: 443
+server: apod.com
+trustAllServerCertificates: false
 ↓GetFeed [transactions.XmlHttpTransaction]: 
-  subDir: rss/edition.rss
+  ↑default: true
+  subDir: feed.rss

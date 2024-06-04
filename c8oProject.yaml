@@ -4,7 +4,7 @@
   corsOrigin: =Origin
   version: 8.3.0
   ↓RSSConnector [connectors.HttpConnector]: 🗏 connectors/RSSConnector.yaml
-  ↓GetCNNFeed [sequences.GenericSequence]: 🗏 sequences/GetCNNFeed.yaml
+  ↓GetFeed [sequences.GenericSequence]: 🗏 sequences/GetFeed.yaml
   ↓project [references.ProjectSchemaReference]: 
     projectName: mobilebuilder_tpl_8_3_0_ngx=https://github.com/convertigo/c8oprj-mobilebuilder-tpl/archive/mobilebuilder_tpl_8_3_0_ngx.zip
   ↓MobileApplication [core.MobileApplication]: 

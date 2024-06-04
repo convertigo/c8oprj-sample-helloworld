@@ -40,4 +40,4 @@
             - java.lang.String: 
               - ↑value: 1514539223596
             - java.lang.String: 
-              - ↑value: ./group/content[1]/@url
+              - ↑value: ./enclosure/@url

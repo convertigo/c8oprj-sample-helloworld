@@ -38,28 +38,11 @@ title: First page
         textValue: 
           - xmlizable: 
             - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-            - MobileSmartSourceType: plain:Hello World
-    ↓ButtonSet [ngx.components.UIDynamicElement-1491634611427]: 
-      beanData: '{"ionBean":"ButtonSet","SetPosition":"plain:end"}'
-      tagName: ion-buttons
-      ↓Button [ngx.components.UIDynamicElement-1491634621907]: 
-        beanData: '{"ionBean":"Button","ButtonFormType":"plain:false"}'
-        tagName: ion-button
-        ↓Icon [ngx.components.UIDynamicElement-1491634637555]: 
-          beanData: '{"ionBean":"Icon","IconName":"plain:ellipsis-vertical-outline"}'
-          tagName: ion-icon
+            - MobileSmartSourceType: plain:Astronomy Picture of the Day
 ↓Content [ngx.components.UIDynamicElement-1489674805352]: 
   beanData: '{"ionBean":"Content"}'
   comment: Page content
   tagName: ion-content
-  ↓H1 [ngx.components.UIDynamicElement-1514310804865]: 
-    beanData: '{"ionBean":"Heading1"}'
-    tagName: h1
-    ↓Text [ngx.components.UIText-1514310812815]: 
-      textValue: 
-        - xmlizable: 
-          - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-          - MobileSmartSourceType: plain:CNN Demo
   ↓Button [ngx.components.UIDynamicElement-1514310909287]: 
     beanData: |
       '{
@@ -76,71 +59,60 @@ title: First page
     ↓Event [ngx.components.UIControlEvent-1514310966235]: 
       comment: Use onTap preferably to onClick
       ↓CallSequence [ngx.components.UIDynamicAction-1514381726265]: 
-        beanData: '{"ionBean":"CallSequenceAction","requestable":"plain:sample_HelloWorld.GetCNNFeed"}'
+        beanData: '{"ionBean":"CallSequenceAction","requestable":"plain:sample_HelloWorld.GetFeed"}'
   ↓ListContainer [ngx.components.UIDynamicElement-1514381665124]: 
     beanData: '{"ionBean":"List"}'
     tagName: ion-list
     ↓Directive1 [ngx.components.UIControlDirective-1514539687603]: 
+      directiveIndexName: idx
       directiveSource: 
         - xmlizable: 
           - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-          - MobileSmartSourceType: source:{"filter":"Sequence","project":"sample_HelloWorld","input":"listen(['sample_HelloWorld.GetCNNFeed'])?.news"}
+          - MobileSmartSourceType: source:{"filter":"Sequence","project":"sample_HelloWorld","input":"listen(['sample_HelloWorld.GetFeed'])?.news"}
       ↓GenericItem [ngx.components.UIDynamicElement-1514381673163]: 
-        beanData: '{"ionBean":"ListItem"}'
+        beanData: '{"ionBean":"ListItem","IonColor":"script:idx % 2 ? ''tertiary'' : ''secondary''"}'
         tagName: ion-item
-        ↓Label [ngx.components.UIDynamicElement-1643707378121]: 
-          beanData: '{"ionBean":"Label"}'
-          tagName: ion-label
-          ↓Image [ngx.components.UIDynamicElement-1514381931907]: 
-            beanData: '{"ionBean":"Image","url":"source:{\"filter\":\"Iteration\",\"project\":\"HelloWorld\",\"input\":\"item1514539687603?.imageUrl\"}"}'
-            selfClose: true
-            tagName: img
-          ↓H1 [ngx.components.UIDynamicElement-1514381799636]: 
-            beanData: '{"ionBean":"Heading1"}'
-            tagName: h1
-            ↓Text [ngx.components.UIText-1514381805734]: 
-              textValue: 
-                - xmlizable: 
-                  - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-                  - MobileSmartSourceType: source:{"filter":"Iteration","project":"HelloWorld","input":"item1514539687603?.title"}
-          ↓Paragraph [ngx.components.UIDynamicElement-1514381816549]: 
-            beanData: '{"ionBean":"Paragraph"}'
-            tagName: p
-            ↓Text [ngx.components.UIText-1514381821650]: 
-              textValue: 
-                - xmlizable: 
-                  - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-                  - MobileSmartSourceType: source:{"filter":"Iteration","project":"HelloWorld","input":"item1514539687603?.description"}
         ↓FormatLayout [ngx.components.UIDynamicAttr-1643706624740]: 
           beanData: '{"ionBean":"FormatLayout","TextAlignment":"plain:ion-text-wrap"}'
           comment: FormatLayout
           tagName: div
-↓Footer [ngx.components.UIDynamicElement-1491634242460]: 
-  beanData: '{"ionBean":"Footer"}'
-  comment: Page footer
-  tagName: ion-footer
-  ↓ToolBar [ngx.components.UIDynamicElement-1491634317538]: 
-    beanData: '{"ionBean":"ToolBar"}'
-    tagName: ion-toolbar
-    ↓ButtonSet [ngx.components.UIDynamicElement-1491634325595]: 
-      beanData: '{"ionBean":"ButtonSet","SetPosition":"plain:start"}'
-      tagName: ion-buttons
-      ↓Button [ngx.components.UIDynamicElement-1491634332730]: 
-        beanData: '{"ionBean":"Button","ButtonFormType":"plain:false"}'
-        tagName: ion-button
-        ↓Text [ngx.components.UIText-1491634340354]: 
-          textValue: 
-            - xmlizable: 
-              - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-              - MobileSmartSourceType: plain:Action 1
-    ↓ButtonSet1 [ngx.components.UIDynamicElement-1491634373539]: 
-      beanData: '{"ionBean":"ButtonSet","SetPosition":"plain:end"}'
-      tagName: ion-buttons
-      ↓Button [ngx.components.UIDynamicElement-1491634376874]: 
-        beanData: '{"ionBean":"Button","ButtonFormType":"plain:false"}'
-        tagName: ion-button
-        ↓Text [ngx.components.UIText-1491634383107]: 
-          textValue: 
-            - xmlizable: 
-              - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
-              - MobileSmartSourceType: plain:Action 2
+        ↓Grid [ngx.components.UIDynamicElement-1717492806589]: 
+          beanData: '{"ionBean":"Grid"}'
+          tagName: ion-grid
+          ↓GridRow [ngx.components.UIDynamicElement-1717492806576]: 
+            beanData: '{"ionBean":"GridRow"}'
+            tagName: ion-row
+            ↓GridCol [ngx.components.UIDynamicElement-1717492806578]: 
+              beanData: '{"ionBean":"GridCol","Size":"plain:auto"}'
+              tagName: ion-col
+              ↓Image1 [ngx.components.UIDynamicElement-1514381931907]: 
+                beanData: |
+                  '{
+                   "ionBean": "Image",
+                   "url": "source:{\"filter\":\"Iteration\",\"project\":\"HelloWorld\",\"input\":\"item1514539687603?.imageUrl\"}",
+                   "width": "plain:200px"
+                  }'
+                selfClose: true
+                tagName: img
+            ↓GridCol1 [ngx.components.UIDynamicElement-1717492806584]: 
+              beanData: '{"ionBean":"GridCol"}'
+              tagName: ion-col
+              ↓Label [ngx.components.UIDynamicElement-1643707378121]: 
+                beanData: '{"ionBean":"Label"}'
+                tagName: ion-label
+                ↓H1 [ngx.components.UIDynamicElement-1514381799636]: 
+                  beanData: '{"ionBean":"Heading1"}'
+                  tagName: h1
+                  ↓Text [ngx.components.UIText-1514381805734]: 
+                    textValue: 
+                      - xmlizable: 
+                        - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
+                        - MobileSmartSourceType: source:{"filter":"Iteration","project":"HelloWorld","input":"item1514539687603?.title"}
+                ↓Paragraph [ngx.components.UIDynamicElement-1514381816549]: 
+                  beanData: '{"ionBean":"Paragraph"}'
+                  tagName: p
+                  ↓Text [ngx.components.UIText-1514381821650]: 
+                    textValue: 
+                      - xmlizable: 
+                        - ↑classname: com.twinsoft.convertigo.beans.ngx.components.MobileSmartSourceType
+                        - MobileSmartSourceType: source:{"filter":"Iteration","project":"HelloWorld","input":"item1514539687603?.description"}
