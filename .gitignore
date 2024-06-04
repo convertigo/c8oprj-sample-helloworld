@@ -14,10 +14,10 @@
 # !/Flashupdate/md5.json
 
 # disable this for custom config.xml
-/DisplayObjects/platforms/iOS/config.xml
-/DisplayObjects/platforms/Android/config.xml
+/DisplayObjects/platforms/
 
 /oas2/
 /oas3/
 
 /build/
+.DS_Store
