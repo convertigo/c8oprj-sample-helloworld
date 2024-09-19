@@ -1,8 +1,8 @@
 ↑default: true
 https: true
 port: 443
-server: apod.com
+server: www.nasa.gov
 trustAllServerCertificates: false
 ↓GetFeed [transactions.XmlHttpTransaction]: 
   ↑default: true
-  subDir: feed.rss
+  subDir: feeds/iotd-feed/
