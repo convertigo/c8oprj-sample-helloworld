@@ -60,6 +60,14 @@ title: First page
       comment: Use onTap preferably to onClick
       ↓CallSequence [ngx.components.UIDynamicAction-1514381726265]: 
         beanData: '{"ionBean":"CallSequenceAction","requestable":"plain:sample_HelloWorld.GetFeed"}'
+      ↓Toast [ngx.components.UIDynamicAction-1727427555714]: 
+        beanData: |
+          '{
+           "ionBean": "ToastAction",
+           "IonColor": "plain:warning",
+           "message": "plain:fetching data …",
+           "duration": "script:1000"
+          }'
   ↓ListContainer [ngx.components.UIDynamicElement-1514381665124]: 
     beanData: '{"ionBean":"List"}'
     tagName: ion-list

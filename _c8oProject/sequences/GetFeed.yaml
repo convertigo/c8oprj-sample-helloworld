@@ -1,6 +1,7 @@
 ↓Call_Transaction [steps.TransactionStep-1514539223583]: 
   sourceTransaction: sample_HelloWorld.RSSConnector.GetFeed
 ↓Iterator [steps.IteratorStep-1514539223596]: 
+  condition: 20
   sourceDefinition: 
     - xmlizable: 
       - ↑classname: com.twinsoft.convertigo.beans.common.XMLVector
