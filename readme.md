@@ -27,13 +27,13 @@ For more technical informations : [documentation](./project.md)
      <tr><td>To contribute</td><td>
 
      ```
-     sample_HelloWorld=git@github.com:convertigo/c8oprj-sample-helloworld.git:branch=beta
+     sample_HelloWorld=git@github.com:convertigo/c8oprj-sample-helloworld.git:branch=8.4.0
      ```
      </td></tr>
      <tr><td>To simply use</td><td>
 
      ```
-     sample_HelloWorld=git@github.com:convertigo/c8oprj-sample-helloworld/archive/beta.zip
+     sample_HelloWorld=git@github.com:convertigo/c8oprj-sample-helloworld/archive/8.4.0.zip
      ```
      </td></tr>
     </table>

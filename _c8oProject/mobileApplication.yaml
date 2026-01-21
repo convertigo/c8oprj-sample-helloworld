@@ -7,6 +7,8 @@ componentScriptContent:
         /*End_c8o_AppImport*/
         /*Begin_c8o_AppDeclaration*/
         	/*End_c8o_AppDeclaration*/
+        /*Begin_c8o_AppSettings*/
+                /*End_c8o_AppSettings*/
         /*Begin_c8o_AppConstructor*/
         		/*End_c8o_AppConstructor*/
         /*Begin_c8o_AppInitialization*/
@@ -17,7 +19,7 @@ componentScriptContent:
         /*Begin_c8o_AppFunction*/
         	/*End_c8o_AppFunction*/
         
-tplProjectName: mobilebuilder_tpl_8_3_0_ngx
+tplProjectName: mobilebuilder_tpl_8_4_0_ngx
 ↓Menu [ngx.components.UIDynamicMenu-1500890597895]: 🗏 mobileMenus/Menu.yaml
 ↓Page [ngx.components.PageComponent-1500538678074]: 🗏 mobilePages/Page.yaml
 ↓Theme [ngx.components.UITheme-1491635018260]: 
